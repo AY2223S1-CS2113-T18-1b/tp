@@ -1,6 +1,5 @@
 package seedu.duke;
 
-import exceptions.FutureDateException;
 import org.junit.jupiter.api.Test;
 
 import java.text.DateFormat;
